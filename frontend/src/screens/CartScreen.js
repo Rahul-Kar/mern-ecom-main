@@ -50,7 +50,7 @@ const CartScreen = ({ match, location, history }) => {
 
   return (
     <div>
-      <MetaComponent title="Ecom Shopping Cart" />
+      <MetaComponent title="shopNfun Shopping Cart" />
       <Row>
         <Col md={8}>
           <h1 className="cart-h1">Shopping Cart</h1>
